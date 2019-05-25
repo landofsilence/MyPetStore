@@ -10,6 +10,7 @@ JPetStore By LandOfSilence
 2019.5.23 V1.0.1
 ------   
     完善了基础功能
+    后续更改移至[MyPetStore-Maven](https://github.com/landofsilence/MyPetStore-Maven)
 2019.5.22
 ------   
     完成了购物车和历史订单（部分实现）功能
